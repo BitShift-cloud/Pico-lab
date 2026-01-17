@@ -1,6 +1,6 @@
 # Pico Lab – Virtual Electronics & Robotics Lab
 
-**Website:** https://pico-lab-psi.vercel.app/
+**Website:** https://pico-lab-kappa.vercel.app/
 **Author:** BitShift
 
 ---
